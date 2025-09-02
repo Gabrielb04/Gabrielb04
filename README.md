@@ -15,8 +15,6 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <a href=#><img src="contributions.svg"></a>
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gabrielb04/count.svg" />
 </p>
 
 
